@@ -681,6 +681,9 @@
 .fa-globe:before {
   content: "\f0ac";
 }
+.fa-globe1:before {
+  content: "\f09b";
+}
 .fa-wrench:before {
   content: "\f0ad";
 }
