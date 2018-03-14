@@ -7,7 +7,8 @@
 .owl-carousel .owl-wrapper:after {
 	content: ".";
 	display: block;
-	clear: both;
+	
+    clear: both;
 	visibility: hidden;
 	line-height: 0;
 	height: 0;
@@ -38,7 +39,10 @@
 }
 	
 .owl-carousel .owl-item{
-	float: left;
+    
+    float: left;
+    position: relative;
+      left: 25%;
 }
 .owl-controls .owl-page,
 .owl-controls .owl-buttons div{
