@@ -41,8 +41,6 @@
 .owl-carousel .owl-item{
     
     float: left;
-    position: relative;
-      left: 25%;
 }
 .owl-controls .owl-page,
 .owl-controls .owl-buttons div{
